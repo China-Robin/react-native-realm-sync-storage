@@ -2,7 +2,7 @@
 ```
 npm install react-native-realm-sync-storage --save
 
-react-native link realm  ||  rnpm link realm
+react-native link realm  或者  rnpm link realm
 ```
 
 ## 2：使用方法
